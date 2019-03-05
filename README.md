@@ -11,3 +11,5 @@
 * James Powell - So you want to be a Python expert? [video](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
 * Four Distributed Systems Architectural Patterns by Tim Berglund [video](https://www.youtube.com/watch?v=tpspO9K28PM&t=687s)
+
+* Get Kata - Kevlin Henney [video](https://www.youtube.com/watch?v=_M4o0ExLQCs)
