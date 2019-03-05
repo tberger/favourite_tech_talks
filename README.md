@@ -9,3 +9,5 @@
 * GOTO 2017 • How to take great Engineers & make them great Technical Leaders • Courtney Hemphill [video](https://www.youtube.com/watch?v=RtMmxqkPVug)
 
 * James Powell - So you want to be a Python expert? [video](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+
+* Four Distributed Systems Architectural Patterns by Tim Berglund [video](https://www.youtube.com/watch?v=tpspO9K28PM&t=687s)
