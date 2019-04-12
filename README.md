@@ -16,4 +16,4 @@
 
 * How I Built Microservices In Go In 30 Minutes [video](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
 
-* GOTO 2016 • Microservices in Go • Matt Heath [video] (https://www.youtube.com/watch?v=WiCru2zIWWs)
+* GOTO 2016 • Microservices in Go • Matt Heath [video](https://www.youtube.com/watch?v=WiCru2zIWWs)
