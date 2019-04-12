@@ -13,3 +13,7 @@
 * Four Distributed Systems Architectural Patterns by Tim Berglund [video](https://www.youtube.com/watch?v=tpspO9K28PM&t=687s)
 
 * Get Kata - Kevlin Henney [video](https://www.youtube.com/watch?v=_M4o0ExLQCs)
+
+* How I Built Microservices In Go In 30 Minutes [video](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
+
+* GOTO 2016 • Microservices in Go • Matt Heath [video] (https://www.youtube.com/watch?v=WiCru2zIWWs)
