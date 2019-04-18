@@ -17,3 +17,5 @@
 * How I Built Microservices In Go In 30 Minutes [video](https://www.youtube.com/watch?v=bM6N-vgPlyQ)
 
 * GOTO 2016 • Microservices in Go • Matt Heath [video](https://www.youtube.com/watch?v=WiCru2zIWWs)
+
+* Edwin van Wijk — Building microservices with .NET Core and Docker [Video](https://www.youtube.com/watch?v=-AfZxdXa7yc)
