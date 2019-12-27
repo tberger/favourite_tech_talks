@@ -19,3 +19,5 @@
 * GOTO 2016 • Microservices in Go • Matt Heath [video](https://www.youtube.com/watch?v=WiCru2zIWWs)
 
 * Edwin van Wijk — Building microservices with .NET Core and Docker [Video](https://www.youtube.com/watch?v=-AfZxdXa7yc)
+
+* The Art of Code [Video](https://www.youtube.com/watch?v=gdSlcxxYAA8)
